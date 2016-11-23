@@ -1,0 +1,98 @@
+/**
+*
+* This file contains the style for the header and footer
+* present on every page of the Ithaca Apple Harvest Festival
+* website.  Author: Colby Triolo, cmt94
+*/
+
+#title {
+    width:100%;
+    font: 'Droid Serif';
+    font-size:40px;
+    text-transform: uppercase; 
+    text-align: center;
+    letter-spacing: -3px;
+    margin-bottom: 0px;
+    border-bottom: 4px solid black;
+    
+}
+ul {
+    list-style: none;
+    font-size: 30px;
+    border-right:2px solid black;
+    padding-top: 0px;
+    margin-top: 6px;
+    padding-left: 100px;
+    padding-right: 20px;
+}
+
+ul a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Droid Serif';
+}
+
+ul a:hover {
+    color: white;
+
+}
+
+#container {
+    border-bottom: 4px solid black;
+    height: 200px;
+}
+#nav{
+    display: block;
+    width:20%;
+    float: left;
+}
+
+#banner_photos {
+    width: 70%;
+    display: block;
+    float: right;
+}
+
+#photo_1 {
+    display: block;
+    float: left;
+    margin-left: 3em;
+    margin-top: 1em;
+}
+#photo_2 {
+    display: block;
+    float: left;
+    margin-left: 2em;
+    margin-top: 1em;
+}
+#photo_3 {
+    display: block;
+    float: left;
+    margin-left: 2em;
+    margin-top: 1em;
+}
+
+#footer_container {
+    max-width: 100%;
+    border-top: 4px solid black;
+}
+
+#social {
+    display: block;
+    width: 30%;
+    float: left;
+    margin-top: 1em;
+}
+#copyright {
+    font-size: 70%;
+    max-width: 30%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 3em;
+}
+#contact {
+    display: block;
+    width: 30%;
+    float: right;
+
+}
