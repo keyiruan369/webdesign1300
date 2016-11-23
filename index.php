@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
 <html lang="en">
+=======
+<html lang='en'>
+>>>>>>> d35dddb645bf4b77709412e4f117bd38a72bca00
     <head>
          <meta charset="utf-8">
          <title> Ithaca Apple Harvest Festival </title>
