@@ -16,12 +16,6 @@
         <div id="homepage_container">
             <div id="coupons">
                 <h3>Coupons</h3>
-                <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
-                <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
-                <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
-                <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
-                <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
-                <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
             </div>
             <div id="right">
                 <div id="about">
@@ -38,8 +32,7 @@
                       while also visiting the historical outdoor pedestrian shopping mall, The 
                       Ithaca Commons.  The pedestrian mall is the epicenter of the festival and
                     the gateway to a nostalgic journey to harvest season fun.</p>
-                    <!-- Image from: https://www.flickr.com/photos/106103661@N02/21406193723/in/album-72157657274645113/ -->
-                    <img src="images/apples.jpg" alt="apples galore">
+                    
                     <p>Over 100 vendors will be selling unique apple varieties, hot apple cider
                      donuts, kettle corn, local farm fresh baked goods and a multitude of around
                      the world specialties. Local farmers are on site selling everything from tasty

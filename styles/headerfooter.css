@@ -19,22 +19,22 @@
 ul {
     list-style: none;
     font-size: 30px;
-    border-right:2px solid black;
-    padding-top: 0px;
+    font-family: 'Playfair Display';
+    line-height: .9;
+    padding-top: 10px;
     margin-top: 6px;
     padding-left: 100px;
     padding-right: 20px;
+
 }
 
 ul a{
     text-decoration: none;
     color: black;
-    font-family: 'Droid Serif';
 }
 
 ul a:hover {
     color: white;
-
 }
 
 #container {
@@ -56,19 +56,27 @@ ul a:hover {
 #photo_1 {
     display: block;
     float: left;
-    margin-left: 3em;
     margin-top: 1em;
+    width: 30%;
+    margin-right: .5em;
+}
+#photos_23{
+    display: block;
+    float: right;
+    margin-top: 1em;
+    width: 70%;
 }
 #photo_2 {
     display: block;
     float: left;
-    margin-left: 2em;
     margin-top: 1em;
+    margin-left: 1em;
+    width:30%;
 }
 #photo_3 {
     display: block;
-    float: left;
-    margin-left: 2em;
+    float: right;
+    width: 35%;
     margin-top: 1em;
 }
 
@@ -94,5 +102,19 @@ ul a:hover {
     display: block;
     width: 30%;
     float: right;
-
 }
+
+a {
+    text-decoration: none;
+    outline: none;
+}
+
+img {
+    border:0px;
+    outline:0px;
+}
+
+#social {
+    margin-top: 1em;
+}
+

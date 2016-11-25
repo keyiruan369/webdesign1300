@@ -7,6 +7,54 @@
 
 html, body {
     background-color: #e5e2d3;
-    font-family: 'Droid Serif', serif;
+    font-family: 'Playfair Display', serif;
 }
 
+#homepage_container {
+    display: inline-block;
+    max-width: 1280px;
+    width:100%;
+    font-family: 'Playfair Display';
+}
+#coupons {
+    display: block;
+    font-size: 200%;
+    width: 20%;
+    float: left;
+   padding-right: .5em;
+   padding-left: .5em;
+   border-right: 2px solid black;
+}
+#right {
+    display: block;
+    width: 77%;
+    float: right;
+}
+#about {
+    display: block;
+    width:71%;
+    float:left;
+    border-right: 2px solid black;
+    margin: 0;
+    padding-left: .5em;
+    padding-right: .5em;
+}
+#restaurants{
+    text-align: center;
+    display: block;
+    font-size: 200%;
+    width: 25%;
+    float: right;
+}
+#about img {
+    display: block;
+    margin:0 auto;
+}
+#coupon img {
+    padding-bottom: .7em;
+    margin: 0 auto;
+}
+.coupon {
+    border: 1px dashed black;
+    padding: .5em;
+}
