@@ -54,6 +54,26 @@
                 </div>
                 <div id="restaurants">
                     <h3> Where to eat</h3>
+                    <div id="logos">
+                        <!--Edited from https://www.facebook.com/collegetownbagels/photos/a.499821170999.308662.113060610999/10153914872621000/?type=1&theater -->
+                        <a href="http://www.collegetownbagels.com"  target="_blank">
+                        <img class="restaurant" src="images/CTB.jpg" alt="CTB"></a>
+                        <!--Edited from https://www.facebook.com/543285565850581/photos/a.543286069183864.1073741825.543285565850581/543286075850530/?type=1&theater -->
+                        <a href="http://www.maxsithaca.com" target="_blank">
+                        <img class="restaurant" src="images/maxs.jpg" alt="Max's Restaurant"></a>
+                        <!-- Edited from https://www.facebook.com/Lot10Ithaca/photos/a.160007510774359.31657.160005544107889/199416176833492/?type=1&theater -->
+                        <a href="http://www.lot-10.com" target="_blank">
+                        <img class="restaurant" src="images/lot10.jpg" alt="Lot 10"></a>
+                        <!-- Edited from https://www.facebook.com/MiaIthaca/photos/a.227824170572748.58461.227824003906098/230272143661284/?type=1&theater -->
+                        <a href="http://www.miaithaca.com" target="_blank">
+                        <img class="restaurant" src="images/mias.jpg" alt="Mia's Tapas"></a>
+                        <!--Edited from: https://www.facebook.com/121835437827171/photos/a.182220345122013.46947.121835437827171/182220348455346/?type=1&theater -->
+                        <a href="http://www.vivataqueria.com/" target="_blank">
+                        <img class="restaurant" src="images/viva.jpg" alt="Viva!"></a>
+                        <!-- Edited from https://www.facebook.com/mahoganygrill/photos/a.115090538552781.14698.115088588552976/115090541886114/?type=1&theater -->
+                        <a href="http://www.mahoganygrill.com" target="_blank">
+                        <img class="restaurant" src="images/mg.jpg" alt="Mahogany Grill"> </a>
+                        </div>
                 </div>
             </div>
         </div>
