@@ -1,5 +1,4 @@
-<?php
-    echo '
+  <footer>
     <div id="footer_container">
       <div id="social">
         <!-- Image from: https://www.iconfinder.com/icons/734386/facebook_media_online_social_icon#size=48 -->
@@ -29,6 +28,4 @@
         <p> Email: <a href="mailto: info@downtownithaca.com"> info@downtownithaca.com </a></p>
       </div>
     </div>   
-        
-    ';
-?>
+  </footer>      
