@@ -68,3 +68,10 @@ html, body {
 #restaurants a{
     text-decoration: none;
 }
+
+#map img {
+  display: block;
+  padding-left: .5em;
+  padding-right: .5em;
+  width: 71%;
+}

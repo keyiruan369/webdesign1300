@@ -8,11 +8,9 @@
          <link rel="stylesheet" type="text/css" href="styles/headerfooter.css">
          <link href="http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic%7CDroid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     </head>
-    <body>
-            <?php
-            include "scripts/header.php";
-            ?>
 
+    <body>
+    <?php include "includes/header.php";?>
         <div id="homepage_container">
             <div id="coupons">
                 <h3>Coupons</h3>
@@ -77,9 +75,8 @@
                 </div>
             </div>
         </div>
-
-            <?php 
-            include "scripts/footer.php"; 
-            ?>
+        <?php include "includes/footer.php"; ?>
     </body>
+
+    
 </html>
