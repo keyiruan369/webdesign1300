@@ -14,6 +14,7 @@
         <div id="homepage_container">
             <div id="coupons">
                 <h3>Coupons</h3>
+                <!--This image was made by Colby Triolo -->
                 <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
                 <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
                 <img class="coupon" src="images/coupon.jpg" alt="coupon place holder">
