@@ -9,6 +9,10 @@ html, body {
     background-color: #e5e2d3;
     font-family: 'Playfair Display', serif;
 }
+#wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+}
 
 #homepage_container {
     display: inline-block;

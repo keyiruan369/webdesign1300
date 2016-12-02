@@ -10,6 +10,7 @@
     </head>
 
     <body>
+    <div id="wrapper">
     <?php include "includes/header.php";?>
         <div id="homepage_container">
             <div id="coupons">
@@ -77,6 +78,7 @@
             </div>
         </div>
         <?php include "includes/footer.php"; ?>
+        </div>
     </body>
 
     
