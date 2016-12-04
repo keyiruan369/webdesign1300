@@ -3,6 +3,7 @@
 <html lang="en">
     <head>
          <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
          <title> Ithaca Apple Harvest Festival </title>
          <link rel="stylesheet" type="text/css" href="styles/main.css">
          <link rel="stylesheet" type="text/css" href="styles/headerfooter.css">
@@ -53,7 +54,7 @@
 
                 </div>
                 <div id="restaurants">
-                    <h3> Where to eat</h3>
+                    <h3> Where To Eat</h3>
                     <div id="logos">
                         <!--Edited from https://www.facebook.com/collegetownbagels/photos/a.499821170999.308662.113060610999/10153914872621000/?type=1&theater -->
                         <a href="http://www.collegetownbagels.com"  target="_blank">

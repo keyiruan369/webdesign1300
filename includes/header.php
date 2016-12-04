@@ -13,6 +13,13 @@
                  <li><a href="must-see.php"><strong>Must See</strong></a></li>
               </ul>
             </div>
+            <div id="mobile_nav">
+                 <a href="index.php"><strong>Home</strong></a>
+                 <a href="map.php"><strong>Map</strong></a>
+                 <a href="gallery.php"><strong>Gallery</strong></a>
+                 <a href="calendar.php"><strong>Calendar</strong></a>
+                 <a href="must-see.php"><strong>Must See</strong></a>
+            </div>
 
         <div id="banner_photos">
             <div id="photo_1">
