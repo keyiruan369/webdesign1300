@@ -25,7 +25,7 @@
       <div id="contact">  
         <p> 171 E. State Street <br/> Center Ithaca <br/> Ithaca, NY 14850 </p>
         <p> Phone: 607-277-8679 </p>
-        <p> Email: <a href="mailto:info@downtownithaca.com"> info@downtownithaca.com </a></p>
+        <p><a href="mailto:info@downtownithaca.com"> Email here </a></p>
       </div>
     </div>   
   '
