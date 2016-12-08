@@ -22,6 +22,7 @@
               <h2> Hilby The Skinny German Juggle Boy</h2>
               <h3> Time: September 30 Friday 12:30-4:45PM </h3>
               <h3> Location: West State Street </h3>
+              <!-- "Who Is Hilby?" Who Is Hilby? N.p., n.d. Web. 08 Dec. 2016.-->
               <p> Michael Hilbig, aka, Hilby the Skinny German Juggle boy is a comedic circus stunt performer from Ithaca, NY. One 
                 cannot help but be charmed by Hilby’s impeccable timing and extreme circus skills. You will find Hilby on top of 
                 Unicycles of all shapes and sizes manipulating objects ranging from potato chips to electrical powered hedge trimmers.
@@ -33,6 +34,7 @@
               <!-- This image belongs to Comedy Soap Box:
               Comedy Soap Box. (n.d.). Retrieved from hhttp://www.comedysoapbox.com/festivals.cfm?ID=158 -->
               <h2> Fingers Lake Comedy Festival</h2>
+               <!-- "Downtown Ithaca." Ithaca Events - Downtown Ithaca Alliance. Downtown Ithaca, n.d. Web. 08 Dec. 2016.!-->
               <div id="Fri">
               <h3> Friday September 30th</h3>
               <p>6pm -FLCF Competition 1st Round @ Lot 10(Age 21+)</p>
@@ -54,6 +56,7 @@
               <h2> Wailin' Brass Band</h2>
               <h3> Time: October 1 Saturday 5:00-6:00PM </h3>
               <h3> Location: Bernie Milton Pavilion</h3>
+              <!-- "Wailin' Brass Band." Facebook. N.p., n.d. Web. 08 Dec. 2016. -->
               <p> Wailin' Brass Band is based in Ithaca, NY. Come check out Wailin' Brass Band on the Bernie Milton Pavilion Stage at the Ithaca
                Apple Harvest Festival! They will be playing sweet tunes ranging from New Orleans Traditionals to pop!
               </p>

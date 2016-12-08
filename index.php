@@ -27,6 +27,7 @@
             <h2> Ithaca's premier event of the Fall,</h2>
             <h3> Apple Harvest Festival is a three day celebration of food, fun, and apples!</h3>
             <p><strong> by: Downtown Ithaca </strong></p>
+            <!-- "Downtown Ithaca." Ithaca Events - Downtown Ithaca Alliance. Downtown Ithaca, n.d. Web. 08 Dec. 2016.!-->
             <p> The 34th Annual Great Downtown Ithaca Apple Harvest Festival by 
             Presented Tompkins Trust Company is set to take place September 30 - 
             October 2, 2016.  The 2016 Apple Harvest Festival hosts plenty of apples, 
