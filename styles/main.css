@@ -20,6 +20,13 @@ html, body {
     width:100%;
     font-family: 'Playfair Display';
 }
+
+#map_container {
+    display: inline-block;
+    max-width: 1280px;
+    width:100%;
+    font-family: 'Playfair Display';
+}
 #coupons {
    display: block;
    font-size: 200%;
@@ -73,11 +80,68 @@ html, body {
     text-decoration: none;
 }
 
+#map {
+    border-bottom: 2px solid black;
+}
+
 #map img {
   display: block;
-  padding-left: .5em;
-  padding-right: .5em;
-  width: 71%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  width: 70%;
+}
+
+#map h1 {
+  font-size: 200%;
+  margin-left:5%;
+}
+
+#bus img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 80%;
+}
+
+#bus h1 {
+  font-size: 200%;
+  margin-left:5%;
+}
+
+
+#button_div button {
+ -moz-box-shadow: 0px 1px 0px 0px #1c1b18;
+  -webkit-box-shadow: 0px 1px 0px 0px #1c1b18;
+  box-shadow: 0px 1px 0px 0px #1c1b18;
+  background-color:#eae0c2;
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+  border-radius:15px;
+  border:2px solid #333029;
+  cursor:pointer;
+  color:#505739;
+  font-size:14px;
+  font-weight:bold;
+  padding:12px 16px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffffff;
+  display: inline-block;
+}
+
+#button_div {
+  text-align: center;
+}
+
+#button_div button:hover {
+  background-color:#ccc2a6;
+}
+#button_div button:active {
+  position:relative;
+  top:1px;
 }
 
 @media screen and (min-width:320px) and (max-width:480px) {
