@@ -34,7 +34,11 @@ html, body {
     width:100%;
     font-family: 'Playfair Display';
 }
-
+#gallery_container {
+   margin-top:2em;
+   margin-left: 15%;
+   margin-bottom: 2em;
+}
 #coupons {
    display: block;
    font-size: 200%;
@@ -358,6 +362,15 @@ html, body {
   display: block;
 }
 
+/* calendar */
+#schedule {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  display: block;
+  width:90%;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 
@@ -403,15 +416,16 @@ html, body {
 
    #juggleboy {
       margin-top: 1em;
-      width:100%;
+      max-width: 480px;
+
       border-bottom: 0.3px solid black;
    }
 
    #juggleboy img {
-      width: 80%;
+      max-width: 480px;
       margin: auto;
+      padding: 0 0 0 0;
       float: none;
-      text-align: center;
    }
 
     #comedy {
@@ -422,7 +436,8 @@ html, body {
 
    #comedy img{
       float: none;
-      width:80%;
+      padding: 0 0 0 0;
+      max-width: 480px;
       margin: auto;
    } 
     #band {
@@ -432,8 +447,10 @@ html, body {
 
    #band img{
      float: none;
-     width: 80%;
-     margin: auto;
+     max-width: 280px;
+     padding: 0 0 0 0;
+     margin-left:5%;
+     margin-right:5%;
    }
 
    #Fri {
@@ -442,5 +459,20 @@ html, body {
 
     #Sat{
       float:none;
+   }
+
+   #gallery_container {
+     margin: auto;
+   }
+
+   #gallery_container img{
+      float:none;
+      margin-left:auto;
+      margin-right:auto;
+      margin-bottom: 0.5em;
+      margin-top:0.5em;
+      width: 100%;
+      max-width: 480px;
+
    }
 }

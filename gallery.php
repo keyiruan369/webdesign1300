@@ -2,24 +2,25 @@
 <html lang="en"> 
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Ithaca Apple Harvest Festival </title>
     <link rel="stylesheet" type="text/css" href="styles/main.css">
     <link rel="stylesheet" type="text/css" href="styles/headerfooter.css">
     <link href="http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic%7CDroid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   </head>
   <body>
+    <div id="wrapper">
     <?php include "includes/header.php";?>
-
+    <div id="gallery_container">
     <div class="row_1">
-      <!-- This image belongs to Andrew Halpern:
-            Halpern, A. (2013, October 5). Retrieved from https://www.flickr.com/photos/106103661@N02/10396905025/sizes/n/
-            -->
-      <img src="images/stage_small.jpg" alt="Picture of performers">
-
       <!-- This image belongs to Andrew Halpern:
             Halpern, A. (2014, October 4). Retrieved from https://www.flickr.com/photos/106103661@N02/15266541299/sizes/n/
             -->
       <img src="images/goat_small.jpg" alt="Picture of goat being petted">
+       <!-- This image belongs to Andrew Halpern:
+            Halpern, A. (2013, October 5). Retrieved from https://www.flickr.com/photos/106103661@N02/10396905025/sizes/n/
+            -->
+      <img src="images/stage_small.jpg" alt="Picture of performers">
       
       <!-- This image belongs to Andrew Halpern:
             Halpern, A. (2014, October 4). Retrieved from https://www.flickr.com/photos/106103661@N02/15452949942/sizes/n/
@@ -90,7 +91,8 @@
             -->
       <img src="images/rides_small.jpg" alt="Picture of carnival rides">
     </div>
-
+  </div>
     <?php include "includes/footer.php"; ?>
+     </div>
   </body>
 </html> 
